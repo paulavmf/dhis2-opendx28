@@ -1,0 +1,10 @@
+
+.idea/
+
+fake_data_DHIS2/.ipynb_checkpoints/
+
+fake_data_DHIS2/logs/
+
+imp-exp/org_units/mapas/
+
+*.log

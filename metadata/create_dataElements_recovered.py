@@ -4,7 +4,7 @@ from metadata import  *
 import logging
 
 '''
-Import all dataElements for all diseases recovered data
+Import all dataElements for all diseases recovered data:
 '''
 
 def dataElementRecoveredPayload(name):

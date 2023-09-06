@@ -1,0 +1,45 @@
+aggregationType,domainType,name,shortName,formName,categoryCombo,valueType,datasetName,datasetCode,perDissease,period,organisationUnits
+SUM,AGGREGATE,B,B,HospitalBedOccupancyt,{'id': 'bjDvmb4bfuf'},INTEGER_ZERO_OR_POSITIVE,"IDS - Report: Suspected, Confirm, Death, Recovered",ZyZmZTUwctj,True,Weekly,Fu370tZTKYz
+SUM,AGGREGATE,I,I,ICUBedOccupancyt,{'id': 'bjDvmb4bfuf'},INTEGER_ZERO_OR_POSITIVE,"IDS - Report: Suspected, Confirm, Death, Recovered",ZyZmZTUwctj,True,Weekly,Fu370tZTKYz
+SUM,AGGREGATE,A,A,HospitalDischarget,{'id': 'bjDvmb4bfuf'},INTEGER_ZERO_OR_POSITIVE,"IDS - Report: Suspected, Confirm, Death, Recovered",ZyZmZTUwctj,True,Weekly,Fu370tZTKYz
+SUM,AGGREGATE,PHC,PHC,PrimatyCareDischarget,{'id': 'bjDvmb4bfuf'},INTEGER_ZERO_OR_POSITIVE,"IDS - Report: Suspected, Confirm, Death, Recovered",ZyZmZTUwctj,True,Weekly,Fu370tZTKYz
+SUM,AGGREGATE,Bt,Bt,HospitalBedOccupancyt,{'id': 'bjDvmb4bfuf'},INTEGER_ZERO_OR_POSITIVE,"IDS - Report: Suspected, Confirm, Death, Recovered",ZyZmZTUwctj,True,Weekly,Fu370tZTKYz
+SUM,AGGREGATE,It,It,ICUBedOccupancyt,{'id': 'bjDvmb4bfuf'},INTEGER_ZERO_OR_POSITIVE,"IDS - Report: Suspected, Confirm, Death, Recovered",ZyZmZTUwctj,True,Weekly,Fu370tZTKYz
+SUM,AGGREGATE,At,At,HospitalDischarget,{'id': 'bjDvmb4bfuf'},INTEGER_ZERO_OR_POSITIVE,"IDS - Report: Suspected, Confirm, Death, Recovered",ZyZmZTUwctj,True,Weekly,Fu370tZTKYz
+SUM,AGGREGATE,PHCt,PHCt,PrimatyCareDischarget,{'id': 'bjDvmb4bfuf'},INTEGER_ZERO_OR_POSITIVE,"IDS - Report: Suspected, Confirm, Death, Recovered",ZyZmZTUwctj,True,Weekly,Fu370tZTKYz
+SUM,AGGREGATE,Solvedt,Solvedt,Solvedt,{'id': 'bjDvmb4bfuf'},INTEGER_ZERO_OR_POSITIVE,"IDS - Report: Suspected, Confirm, Death, Recovered",ZyZmZTUwctj,True,Weekly,Fu370tZTKYz
+SUM,AGGREGATE,DailyConfirmedt,DailyConfirmedt,DailyConfirmedt,{'id': 'bjDvmb4bfuf'},INTEGER_ZERO_OR_POSITIVE,"IDS daily - Report: Suspected, Confirm, Death, Recovered",WdT9LDhRBIG,True,Daily,Fu370tZTKYz
+SUM,AGGREGATE,DailyDeatht,DailyDeatht,DailyDeatht,{'id': 'bjDvmb4bfuf'},INTEGER_ZERO_OR_POSITIVE,"IDS daily - Report: Suspected, Confirm, Death, Recovered",WdT9LDhRBIG,True,Daily,Fu370tZTKYz
+SUM,AGGREGATE,DailyRecoveredt,DailyRecoveredt,DailyRecoveredt,{'id': 'bjDvmb4bfuf'},INTEGER_ZERO_OR_POSITIVE,"IDS daily - Report: Suspected, Confirm, Death, Recovered",WdT9LDhRBIG,True,Daily,Fu370tZTKYz
+SUM,AGGREGATE,DailySolvedt,DailySolvedt,DailySolvedt,{'id': 'bjDvmb4bfuf'},INTEGER_ZERO_OR_POSITIVE,"IDS daily - Report: Suspected, Confirm, Death, Recovered",WdT9LDhRBIG,True,Daily,Fu370tZTKYz
+SUM,AGGREGATE,ActiveCasest,ActiveCasest,ActiveCasest,{'id': 'bjDvmb4bfuf'},INTEGER_ZERO_OR_POSITIVE,"IDS - Report: Suspected, Confirm, Death, Recovered",ZyZmZTUwctj,True,Weekly,Fu370tZTKYz
+SUM,AGGREGATE,PreActiveCasest,PreActiveCasest,PreActiveCasest,{'id': 'bjDvmb4bfuf'},INTEGER_ZERO_OR_POSITIVE,"IDS - Report: Suspected, Confirm, Death, Recovered",ZyZmZTUwctj,True,Weekly,Fu370tZTKYz
+AVERAGE_SUM_ORG_UNIT,AGGREGATE,DeathsPercentaget ,DeathsPercentaget ,DeathsPercentaget ,{'id': 'bjDvmb4bfuf'},INTEGER_ZERO_OR_POSITIVE,"IDS - Report: Suspected, Confirm, Death, Recovered",ZyZmZTUwctj,True,Weekly,Fu370tZTKYz
+AVERAGE_SUM_ORG_UNIT,AGGREGATE,RecoveredPercentaget,RecoveredPercentaget,RecoveredPercentaget,{'id': 'bjDvmb4bfuf'},INTEGER_ZERO_OR_POSITIVE,"IDS - Report: Suspected, Confirm, Death, Recovered",ZyZmZTUwctj,True,Weekly,Fu370tZTKYz
+AVERAGE_SUM_ORG_UNIT,AGGREGATE,aHSIt,aHSIt,Accumulated Health Sufficiency Index,{'id': 'bjDvmb4bfuf'},INTEGER_ZERO_OR_POSITIVE,"IDS - Report: Suspected, Confirm, Death, Recovered",ZyZmZTUwctj,True,Weekly,Fu370tZTKYz
+AVERAGE_SUM_ORG_UNIT,AGGREGATE,dHSIt,dHSIt,Daily Health Sufficiency Index,{'id': 'bjDvmb4bfuf'},INTEGER_ZERO_OR_POSITIVE,"IDS - Report: Suspected, Confirm, Death, Recovered",ZyZmZTUwctj,True,Weekly,Fu370tZTKYz
+AVERAGE_SUM_ORG_UNIT,AGGREGATE,hPORt,hPORt,Potential Occupancy Ratio,{'id': 'bjDvmb4bfuf'},INTEGER_ZERO_OR_POSITIVE,"IDS - Report: Suspected, Confirm, Death, Recovered",ZyZmZTUwctj,True,Weekly,Fu370tZTKYz
+AVERAGE_SUM_ORG_UNIT,AGGREGATE,icuPORr,icuPORr,ICU Potential Occupancy Ratio,{'id': 'bjDvmb4bfuf'},INTEGER_ZERO_OR_POSITIVE,"IDS - Report: Suspected, Confirm, Death, Recovered",ZyZmZTUwctj,True,Weekly,Fu370tZTKYz
+SUM,AGGREGATE,TB,TB,HospitalBedCapacity,{'id': 'bjDvmb4bfuf'},INTEGER_ZERO_OR_POSITIVE,"IDS - Report: Suspected, Confirm, Death, Recovered",ZyZmZTUwctj,False,Weekly,Fu370tZTKYz
+SUM,AGGREGATE,TI,TI,ICUBedCapacityt,{'id': 'bjDvmb4bfuf'},INTEGER_ZERO_OR_POSITIVE,"IDS - Report: Suspected, Confirm, Death, Recovered",ZyZmZTUwctj,False,Weekly,Fu370tZTKYz
+AVERAGE_SUM_ORG_UNIT,AGGREGATE,Occupation index,Occupation index,Occupation index,{'id': 'bjDvmb4bfuf'},INTEGER_ZERO_OR_POSITIVE,Economy Index,JY8Si4iIzXD,False,Weekly,Fu370tZTKYz
+AVERAGE_SUM_ORG_UNIT,AGGREGATE,Turnover index ,Turnover index ,Turnover index ,{'id': 'bjDvmb4bfuf'},INTEGER_ZERO_OR_POSITIVE,Economy Index,JY8Si4iIzXD,False,Weekly,Fu370tZTKYz
+AVERAGE_SUM_ORG_UNIT,AGGREGATE,Average stay ,Average stay ,Average stay ,{'id': 'bjDvmb4bfuf'},INTEGER_ZERO_OR_POSITIVE,Economy Index,JY8Si4iIzXD,False,Weekly,Fu370tZTKYz
+AVERAGE_SUM_ORG_UNIT,AGGREGATE,Gross mortality rate ,Gross mortality rate ,Gross mortality rate ,{'id': 'bjDvmb4bfuf'},INTEGER_ZERO_OR_POSITIVE,Economy Index,JY8Si4iIzXD,False,Weekly,Fu370tZTKYz
+AVERAGE_SUM_ORG_UNIT,AGGREGATE,Autopsy rate ,Autopsy rate ,Autopsy rate ,{'id': 'bjDvmb4bfuf'},INTEGER_ZERO_OR_POSITIVE,Economy Index,JY8Si4iIzXD,False,Weekly,Fu370tZTKYz
+AVERAGE_SUM_ORG_UNIT,AGGREGATE,Emergency pressure ,Emergency pressure ,Emergency pressure ,{'id': 'bjDvmb4bfuf'},INTEGER_ZERO_OR_POSITIVE,Economy Index,JY8Si4iIzXD,False,Weekly,Fu370tZTKYz
+AVERAGE_SUM_ORG_UNIT,AGGREGATE,Cesarean section delivery rate ,Cesarean section delivery rate ,Cesarean section delivery rate ,{'id': 'bjDvmb4bfuf'},INTEGER_ZERO_OR_POSITIVE,Economy Index,JY8Si4iIzXD,False,Weekly,Fu370tZTKYz
+AVERAGE_SUM_ORG_UNIT,AGGREGATE,Vaginal delivery rate ,Vaginal delivery rate ,Vaginal delivery rate ,{'id': 'bjDvmb4bfuf'},INTEGER_ZERO_OR_POSITIVE,Economy Index,JY8Si4iIzXD,False,Weekly,Fu370tZTKYz
+AVERAGE_SUM_ORG_UNIT,AGGREGATE,Newborn rate ,Newborn rate ,Newborn rate ,{'id': 'bjDvmb4bfuf'},INTEGER_ZERO_OR_POSITIVE,Economy Index,JY8Si4iIzXD,False,Weekly,Fu370tZTKYz
+AVERAGE_SUM_ORG_UNIT,AGGREGATE,Inpatient surgery index ,Inpatient surgery index ,Inpatient surgery index ,{'id': 'bjDvmb4bfuf'},INTEGER_ZERO_OR_POSITIVE,Economy Index,JY8Si4iIzXD,False,Weekly,Fu370tZTKYz
+AVERAGE_SUM_ORG_UNIT,AGGREGATE,Outpatient surgery index ,Outpatient surgery index ,Outpatient surgery index ,{'id': 'bjDvmb4bfuf'},INTEGER_ZERO_OR_POSITIVE,Economy Index,JY8Si4iIzXD,False,Weekly,Fu370tZTKYz
+AVERAGE_SUM_ORG_UNIT,AGGREGATE,Scheduled surgery index ,Scheduled surgery index ,Scheduled surgery index ,{'id': 'bjDvmb4bfuf'},INTEGER_ZERO_OR_POSITIVE,Economy Index,JY8Si4iIzXD,False,Weekly,Fu370tZTKYz
+AVERAGE_SUM_ORG_UNIT,AGGREGATE,Emergency surgery index ,Emergency surgery index ,Emergency surgery index ,{'id': 'bjDvmb4bfuf'},INTEGER_ZERO_OR_POSITIVE,Economy Index,JY8Si4iIzXD,False,Weekly,Fu370tZTKYz
+SUM,AGGREGATE,Mortality during weekend surgical intervention ,Mortality during weekend surgical intervention ,Mortality during weekend surgical intervention ,{'id': 'bjDvmb4bfuf'},INTEGER_ZERO_OR_POSITIVE,Economy Index,JY8Si4iIzXD,False,Weekly,Fu370tZTKYz
+SUM,AGGREGATE,Episodes with surgery ,Episodes with surgery ,Episodes with surgery ,{'id': 'bjDvmb4bfuf'},INTEGER_ZERO_OR_POSITIVE,Economy Index,JY8Si4iIzXD,False,Weekly,Fu370tZTKYz
+SUM,AGGREGATE,Mortality in surgical episode ,Mortality in surgical episode ,Mortality in surgical episode ,{'id': 'bjDvmb4bfuf'},INTEGER_ZERO_OR_POSITIVE,Economy Index,JY8Si4iIzXD,False,Weekly,Fu370tZTKYz
+SUM,AGGREGATE,Re-surgery rate ,Re-surgery rate ,Re-surgery rate ,{'id': 'bjDvmb4bfuf'},INTEGER_ZERO_OR_POSITIVE,Economy Index,JY8Si4iIzXD,False,Weekly,Fu370tZTKYz
+SUM,AGGREGATE,Average preoperative stay ,Average preoperative stay ,Average preoperative stay ,{'id': 'bjDvmb4bfuf'},INTEGER_ZERO_OR_POSITIVE,Economy Index,JY8Si4iIzXD,False,Weekly,Fu370tZTKYz
+SUM,AGGREGATE,Emergency mortality rate ,Emergency mortality rate ,Emergency mortality rate ,{'id': 'bjDvmb4bfuf'},INTEGER_ZERO_OR_POSITIVE,Economy Index,JY8Si4iIzXD,False,Weekly,Fu370tZTKYz
+SUM,AGGREGATE,Average emergency time ,Average emergency time ,Average emergency time ,{'id': 'bjDvmb4bfuf'},INTEGER_ZERO_OR_POSITIVE,Economy Index,JY8Si4iIzXD,False,Weekly,Fu370tZTKYz
+SUM,AGGREGATE,Rate of return to emergency within 72 hours,Rate of return to emergency within 72 hours,Rate of return to emergency within 72 hours,{'id': 'bjDvmb4bfuf'},INTEGER_ZERO_OR_POSITIVE,Economy Index,JY8Si4iIzXD,False,Weekly,Fu370tZTKYz
